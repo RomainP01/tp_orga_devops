@@ -40,3 +40,9 @@ Les tickets doivent être réalisé sur Jira.
 - Lors du sprint planning, le story point du ticket doit être renseigné.
 - Cela correspond au point d'effort. Plus le nombre est élevé, plus on estime que le ticket est long/dur à compléter.
 
+### Type de ticket 
+- Un ticket peut être une amélioration, une correction de bugs, une amélioration technique etc... il est important de bien typer son ticket.
+
+### Epic 
+Pour rappel, les epics sont des corpus de tâches importantes qui peuvent être divisé en stories.
+- Si une story appartient à une epic, il faut renseigner l'epic dans le ticket. 
