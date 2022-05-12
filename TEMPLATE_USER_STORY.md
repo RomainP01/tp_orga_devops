@@ -51,8 +51,8 @@ Pour rappel, les epics sont des corpus de tâches importantes qui peuvent être 
 
 - Titre : En tant que [persona], je souhaite [objectif] afin de [raisons]
 - Contenu du ticket : Il est important de prendre en compte [contraintes], 
-- il est possible de contacter [aide] qui est la personne en charge de l'accès à cette donnée
+il est possible de contacter [aide] qui est la personne en charge de l'accès à cette donnée
 - Tests d'acceptance : 
-- Test 1 : Je peux facilement accéder au bouton
-- Test 2 : L'affichage est adapté au mobile
-- Test 3 : Si la connexion s'interrompt je suis averti 
+Test 1 : Je peux facilement accéder au bouton
+Test 2 : L'affichage est adapté au mobile
+Test 3 : Si la connexion s'interrompt je suis averti 
