@@ -26,6 +26,9 @@ Quand vous codez, tâchez d'appliquer au maximum les principes énoncées par Ro
 - Principe : il faut dépendre des abstractions, pas des implémentations.
 - Exemple : Lorsque l'on met des dépendances entre deux entités, il faut le faire via le biais des classes abstraites.
 
+### Design Pattern 
+- Dès que des design patterns peuvent être utilisés, cela doit être fait. 
+- Pour apprendre les design pattern vous pouvez vous référer à cette série de vidéos : https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
 
 
 
