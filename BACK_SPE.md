@@ -31,12 +31,8 @@ yarn install
 yarn start
 ```
 
-Le front de l'application sera disponible à l'adresse : http://localhost:3000
+Le front de l'application sera disponible à l'adresse : http://localhost:3001
 
-#### Démarrer storybook
-```
-yarn storybook
-```
 ---
 
 ### Qualité de code
