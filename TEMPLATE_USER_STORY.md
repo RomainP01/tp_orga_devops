@@ -46,3 +46,7 @@ Les tickets doivent être réalisé sur Jira.
 ### Epic 
 Pour rappel, les epics sont des corpus de tâches importantes qui peuvent être divisé en stories.
 - Si une story appartient à une epic, il faut renseigner l'epic dans le ticket. 
+
+## Template : 
+
+Titre : En tant que [persona], je souhaite [objectif] afin de [raisons]
