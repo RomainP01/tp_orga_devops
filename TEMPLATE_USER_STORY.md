@@ -24,15 +24,19 @@ Une user story doit contenir un titre composé en trois parties :
 ## Composition d'un ticket sur Jira
 Les tickets doivent être réalisé sur Jira. 
 
-### Titre : user story
+### Titre : User Story
 - Le titre du ticket doit être la User Story 
 
 ### Contenu du ticket : Explication détaillé
 - Le contenu du ticket doit essayer de détailler au mieux les actions à faire
 - Si possible mettre des sources ou des pistes de travail (par exemple : ou peut on trouver telles ou telles informations, qui a potentiellement une solution au problème). 
+- Si possible mettre des captures d'écrans
 
 ### Contenu du ticket : Tests d'acceptance
 - Le rapporteur du ticket doit rédiger les tests permettant à celui qui le prend de savoir quand le ticket est fini. 
 - Attention : S'il n'y a pas de tests d'acceptances, le développement du ticket **ne peut et ne doit pas commencer** 
 
+### Story points 
+- Lors du sprint planning, le story point du ticket doit être renseigné.
+- Cela correspond au point d'effort. Plus le nombre est élevé, plus on estime que le ticket est long/dur à compléter.
 
