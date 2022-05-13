@@ -18,8 +18,12 @@
 Il faut bien entendu avertir les utilisateurs des changements de l'application 
 
 #### Web 
-- Un bandeau à chanque release majeur 
-- 
+- Un bandeau sur la page d'accueil du site apparaîtra à chaque nouvelle release majeur
+- Les utilisateurs pourront consulter le changelog présent également sur une page du site internet
+
+#### Mobile 
+- Une alerte apparaîtra sur la page d'accueil à chaque release majeur.
+- Les utilisateurs pourront consulter le changelog présent sur la page du play store ou du app store
 
 
 
