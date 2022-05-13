@@ -37,7 +37,7 @@ flutter pub get
 flutter run
 ```
 
-Le front de l'application sera disponible à l'adresse : http://localhost:3001
+Le front de l'application sera disponible à l'adresse : http://localhost:3002
 
 ---
 
