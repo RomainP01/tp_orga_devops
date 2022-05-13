@@ -30,6 +30,15 @@ Quand vous codez, tâchez d'appliquer au maximum les principes énoncées par Ro
 - Dès que des design patterns peuvent être utilisés, cela doit être fait. 
 - Pour apprendre les design pattern vous pouvez vous référer à cette série de vidéos : https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
 
+### Autres principes 
+
+#### Coder en anglais
+- Les noms de variable, de classe, de fonctions... doivent être écris en anglais
+
+#### Noms explicites
+- Les noms des variables (sauf variable des boucles), des classes, des fonctions... doivent être explicites 
+- Exemple : une fonction qui permet d'obtenir une liste d'utilisateurs d'une base de données doit s'appeler getAListOfUsersFromDatabase
+
 
 
 
