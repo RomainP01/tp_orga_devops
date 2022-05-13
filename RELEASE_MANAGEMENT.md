@@ -3,7 +3,7 @@
 ## RELEASE MANAGEMENT
 
 ### Nomenclature 
-- La nomenclature respecte le schéma suivant : X.Y.Z(-P).
+La nomenclature respecte le schéma suivant : X.Y.Z(-P).
 
 - X = version majeure (V1, V2, V3)
 - Y = version mineure 
