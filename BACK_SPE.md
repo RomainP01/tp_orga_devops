@@ -6,7 +6,15 @@
 - Le swagger de l'api doit être couramment mis à jour. Le lien du swagger : https://github.com/RomainP01/tp_orga_devops/edit/main/BACK_SPE.md
 
 ### Les tests 
+Tout les test doivent être référencés dans le dossier /tests/.
 
+Les librairies de tests sont les suivantes :
+- [sinon](https://www.npmjs.com/package/sinon)
+- [chai](https://www.npmjs.com/package/chai)
+- [sinon-test](https://www.npmjs.com/package/sinon-test)
+- [mongodb-memory-server](https://www.npmjs.com/package/mongodb-memory-server)
+
+Les test seront lancés automatiquement après le déploiement de l'application dans la CI pour vérifier le bon fonctionnement du code.
 
 ## RUN THE PROJECT
 ---
