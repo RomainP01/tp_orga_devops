@@ -24,4 +24,4 @@ Le taux d'erreur correspond aux bugs et aux autres différents problèmes de pro
 
 ### TTR et TTD
 Le Time To Recover (TTR) est une métric importante à observer. Elle correspond au temps mis pour se remettre d'un arrêt de service en production. 
-Le Time To Detect (TTD) correspond  
+Le Time To Detect (TTD) correspond au temps mis pour trouver une faille ou un bug.
